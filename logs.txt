@@ -1,0 +1,35 @@
+commit ae98a362b64091ced3fc88ed65c39cf464cd4ca3
+Author: OSCAR <pako_loaiza@hotmail.com>
+Date:   Tue Jul 4 11:38:46 2017 -0600
+
+    Integracion de bootstrap
+
+commit 67cb2ef93784d3fe74d00db09cde0d2c20c256dc
+Author: OSCAR <pako_loaiza@hotmail.com>
+Date:   Tue Jul 4 11:27:01 2017 -0600
+
+    Se modifico pie de pagina
+
+commit 17759ed4e66c41e9303b28dd9a63d03b7061bec8
+Author: OSCAR <pako_loaiza@hotmail.com>
+Date:   Tue Jul 4 11:23:35 2017 -0600
+
+    Se agrego pie de pagina
+
+commit a08c381b1ec5a9ecb9dee4a19a2f806954f2b439
+Author: OSCAR <pako_loaiza@hotmail.com>
+Date:   Tue Jul 4 11:20:24 2017 -0600
+
+    Se agrego imagen y descripcion
+
+commit e57833c7ab7ee64a9996f7055d95d9450e4c512c
+Author: OSCAR <pako_loaiza@hotmail.com>
+Date:   Tue Jul 4 11:15:24 2017 -0600
+
+    Se agrego titulo a la pagina
+
+commit 65fe207f83d0d68352c02b11d19b880365e36fe1
+Author: OSCAR <pako_loaiza@hotmail.com>
+Date:   Tue Jul 4 11:09:09 2017 -0600
+
+    Estructura inicial del proyecto
